@@ -25,3 +25,8 @@ we can delete any launch by requesting a delete at /<flightnumber>
 ```
 we can put a get request for planets
 ```
+
+## test
+```
+uses jest
+```
